@@ -1,0 +1,203 @@
+[
+    {
+        "teamName": "Golden State Warriors",
+        "accronym": "GSW",
+        "playerContracts": [
+            {
+                "name": "Stephen Curry",
+                "age": 31,
+                "contract": {
+                    "2024-2025_Data": null,
+                    "2022-2023_Data": null,
+                    "2021-2022_Data": 45780966,
+                    "2023-2024_Data": null,
+                    "2020-2021_Data": 43006362,
+                    "2019-2020_Data": 40231758
+                },
+                "guaranteed": 129019086
+            },
+            {
+                "name": "Klay Thompson",
+                "age": 30,
+                "contract": {
+                    "2024-2025_Data": null,
+                    "2022-2023_Data": 40600080,
+                    "2021-2022_Data": 37980720,
+                    "2023-2024_Data": 43219440,
+                    "2020-2021_Data": 35361360,
+                    "2019-2020_Data": 32742000
+                },
+                "guaranteed": 189903600
+            },
+            {
+                "name": "D'Angelo Russell",
+                "age": 25,
+                "contract": {
+                    "2024-2025_Data": null,
+                    "2022-2023_Data": 31377750,
+                    "2021-2022_Data": 30013500,
+                    "2023-2024_Data": null,
+                    "2020-2021_Data": 28649250,
+                    "2019-2020_Data": 27285000
+                },
+                "guaranteed": 117325500
+            },
+            {
+                "name": "Draymond Green",
+                "age": 28,
+                "contract": {
+                    "2024-2025_Data": null,
+                    "2022-2023_Data": null,
+                    "2021-2022_Data": null,
+                    "2023-2024_Data": null,
+                    "2020-2021_Data": null,
+                    "2019-2020_Data": 18539130
+                },
+                "guaranteed": 18539130
+            },
+            {
+                "name": "Kevon Looney",
+                "age": 24,
+                "contract": {
+                    "2024-2025_Data": "",
+                    "2022-2023_Data": "",
+                    "2021-2022_Data": 5370370,
+                    "2023-2024_Data": null,
+                    "2020-2021_Data": 5000000,
+                    "2019-2020_Data": 4629630
+                },
+                "guaranteed": 9629630
+            },
+            {
+                "name": "Alec Burks",
+                "age": 26,
+                "contract": {
+                    "2024-2025_Data": "",
+                    "2022-2023_Data": "",
+                    "2021-2022_Data": "",
+                    "2023-2024_Data": "",
+                    "2020-2021_Data": "",
+                    "2019-2020_Data": 2320044
+                },
+                "guaranteed": 2320044
+            },
+            {
+                "name": "Willie Cauley-Stein",
+                "age": 25,
+                "contract": {
+                    "2024-2025_Data": "",
+                    "2022-2023_Data": "",
+                    "2021-2022_Data": "",
+                    "2023-2024_Data": "",
+                    "2020-2021_Data": 2286357,
+                    "2019-2020_Data": 2177483
+                },
+                "guaranteed": 2177483
+            },
+            {
+                "name": "Jordan Poole",
+                "age": 20,
+                "contract": {
+                    "2024-2025_Data": "",
+                    "2021-2022_Data": 2161440,
+                    "2022-2023_Data": 3901399,
+                    "2023-2024_Data": null,
+                    "2020-2021_Data": 2063280,
+                    "2019-2020_Data": 1964760
+                },
+                "guaranteed": 4028040
+            },
+            {
+                "name": "Jacob Evans",
+                "age": 22,
+                "contract": {
+                    "2024-2025_Data": "",
+                    "2022-2023_Data": "",
+                    "2021-2022_Data": 3641263,
+                    "2023-2024_Data": "",
+                    "2020-2021_Data": 2017320,
+                    "2019-2020_Data": 1925880
+                },
+                "guaranteed": 1925880
+            },
+            {
+                "name": "Omari Spellman",
+                "age": 20,
+                "contract": {
+                    "2024-2025_Data": "",
+                    "2022-2023_Data": "",
+                    "2021-2022_Data": 3588845,
+                    "2023-2024_Data": "",
+                    "2020-2021_Data": 1988280,
+                    "2019-2020_Data": 1897800
+                },
+                "guaranteed": 1897800
+            },
+            {
+                "name": "Glenn Robinson",
+                "age": 24,
+                "contract": {
+                    "2024-2025_Data": "",
+                    "2022-2023_Data": "",
+                    "2021-2022_Data": "",
+                    "2023-2024_Data": "",
+                    "2020-2021_Data": 2071978,
+                    "2019-2020_Data": 1882867
+                },
+                "guaranteed": 1882867
+            },
+            {
+                "name": "Alfonzo McKinnie",
+                "age": 22,
+                "contract": {
+                    "2024-2025_Data": "",
+                    "2022-2023_Data": "",
+                    "2021-2022_Data": "",
+                    "2023-2024_Data": "",
+                    "2020-2021_Data": "",
+                    "2019-2020_Data": 1588231
+                },
+                "guaranteed": ""
+            },
+            {
+                "name": "Eric Paschall",
+                "age": 20,
+                "contract": {
+                    "2024-2025_Data": "",
+                    "2022-2023_Data": "",
+                    "2021-2022_Data": 1782621,
+                    "2023-2024_Data": "",
+                    "2020-2021_Data": 1517981,
+                    "2019-2020_Data": 898310
+                },
+                "guaranteed": 4198912
+            },
+            {
+                "name": "Alen SmailagiÄ‡",
+                "age": 19,
+                "contract": {
+                    "2024-2025_Data": "",
+                    "2022-2023_Data": 1930681,
+                    "2021-2022_Data": 1782621,
+                    "2023-2024_Data": "",
+                    "2020-2021_Data": 1517981,
+                    "2019-2020_Data": 898310
+                },
+                "guaranteed": 2415891
+            },
+            {
+                "name": "Shaun Livingston",
+                "age": 34,
+                "contract": {
+                    "2024-2025_Data": null,
+                    "2022-2023_Data": null,
+                    "2021-2022_Data": 666666,
+                    "2023-2024_Data": null,
+                    "2020-2021_Data": 666667,
+                    "2019-2020_Data": 666667
+                },
+                "guaranteed": 2666666
+            }
+        ]
+    }
+]
